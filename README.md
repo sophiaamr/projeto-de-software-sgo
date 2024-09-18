@@ -53,6 +53,7 @@ Eu como comitê organizador, quero gerar relatórios de medalhas no sistema para
 ### Diagrama de Classe
 
 ### Diagrama de Pacotes
+<img width="900px" height="500px" src="/imagens/DiagramaDePacote.png">
 
 ### Diagrama de Componentes
 
