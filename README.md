@@ -13,7 +13,6 @@ Este trabalho faz parte da disciplina Projeto de Software, oferecida no curso de
 
 ### Alunos:
 * [Sophia Mendes Rabelo](https://github.com/sophiaamr)
-* [Wilken Henrique Moreira](https://github.com/Wilkennn)
 
 ***
 
@@ -61,4 +60,5 @@ Eu como comitê organizador, quero gerar relatórios de medalhas no sistema para
 
 ### Diagrama de Implantação
 <img width="900px" height="500px" src="/imagens/DiagramaDeImplantacaoSGO.png">
+
 ***
