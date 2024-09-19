@@ -51,12 +51,14 @@ Eu como comitê organizador, quero gerar relatórios de medalhas no sistema para
 <img width="900px" height="800px" src="/imagens/UserCase_Diagram_SGO.png">
 
 ### Diagrama de Classe
+<img width="900px" height="500px" src="/imagens/DiagramaDeClasseSGO.png">
 
 ### Diagrama de Pacotes
 <img width="900px" height="500px" src="/imagens/DiagramaDePacote.png">
 
 ### Diagrama de Componentes
+<img width="900px" height="500px" src="/imagens/DiagramaDeComponenteSGO.png">
 
 ### Diagrama de Implantação
-
+<img width="900px" height="500px" src="/imagens/DiagramaDeImplantacaoSGO.png">
 ***
