@@ -11,7 +11,7 @@ O projeto incluirá a entrega dos seguintes diagramas:
 ### Contextualização Acadêmica
 Este trabalho faz parte da disciplina Projeto de Software, oferecida no curso de Engenharia de Software da PUC Minas e ministrada pelo professor [João Paulo Aramuni](https://github.com/joaopauloaramuni/joaopauloaramuni). O objetivo é aplicar conceitos de modelagem de software e design de sistemas, preparando os alunos para desafios reais de desenvolvimento.
 
-### Alunos:
+### Aluno
 * [Sophia Mendes Rabelo](https://github.com/sophiaamr)
 
 ***
